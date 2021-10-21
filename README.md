@@ -1,7 +1,7 @@
-# Ghost Selfbot
+# 👻 Ghost Selfbot
 
-This is the official code for Ghost which was recently discontinued and released to the public.  
-We advise that you do not use any other fork of Ghost and if you do you are taking risks of getting a virus.  
+The official code for Ghost which was recently discontinued and released to the public.  
+Feel free to use any of the code found in this project for your own project.  
 ⠀
 
 > ### Latest Changelog (v2.3.7)
